@@ -1,6 +1,6 @@
-# Movie Tickets Booking System C++ Project - urssanjaysingh/Movie-Tickets-Booking-System
+# Movie Tickets Booking System C++ Project - Namratasingh/Movie-Tickets-Booking-System
 
-Welcome to the GitHub repository for the Movie Tickets Booking System C++ project - urssanjaysingh/Movie-Tickets-Booking-System!
+Welcome to the GitHub repository for the Movie Tickets Booking System C++ project - Nmaratasingh/Movie-Tickets-Booking-System!
 
 ## Overview
 
@@ -57,6 +57,6 @@ urssanjaysingh welcomes contributions to this project! If you find a bug, have a
 
 ## Contact
 
-If you have any questions or need further assistance, you can reach out to urssanjaysingh via email at sanjaysingh26112000@gmail.com.
+If you have any questions or need further assistance, you can reach out to Namratasingh via email at namratasingh@gmail.com.
 
 Thank you for visiting this repository, and enjoy booking movie tickets with the enhanced Movie Tickets Booking System!
