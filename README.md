@@ -1,6 +1,6 @@
-# Movie Tickets Booking System C++ Project - Namratasingh/Movie-Tickets-Booking-System
+# Movie Tickets Booking System C++ Project - muskan23-lgtm/Movie-Tickets-Booking-System
 
-Welcome to the GitHub repository for the Movie Tickets Booking System C++ project - Nmaratasingh/Movie-Tickets-Booking-System!
+Welcome to the GitHub repository for the Movie Tickets Booking System C++ project - muskan23-lgtm/Movie-Tickets-Booking-System!
 
 ## Overview
 
@@ -23,7 +23,7 @@ To get started with the Movie Tickets Booking System project, follow these steps
 1. **Clone the repository**: Use the following command to clone the repository to your local machine:
 
    ```
-   git clone https://github.com/urssanjaysingh/Movie-Tickets-Booking-System.git
+   git clone https://github.com/muskan23-lgtm/Movie-Tickets-Booking-System.git
    ```
 
 2. **Compile the Source Code**: Navigate to the project directory and use a C++ compiler (e.g., g++) to compile the source code:
@@ -53,10 +53,10 @@ The Movie Tickets Booking System project also includes the following additional 
 
 ## Contributing
 
-urssanjaysingh welcomes contributions to this project! If you find a bug, have an idea for an enhancement, or want to add new features, feel free to open an issue or submit a pull request. Make sure to follow the project's code style and guidelines.
+muskan23-lgtm welcomes contributions to this project! If you find a bug, have an idea for an enhancement, or want to add new features, feel free to open an issue or submit a pull request. Make sure to follow the project's code style and guidelines.
 
 ## Contact
 
-If you have any questions or need further assistance, you can reach out to Namratasingh via email at namratasingh@gmail.com.
+If you have any questions or need further assistance, you can reach out to muskan23-lgtm via email at staricon26@gmail.com.
 
 Thank you for visiting this repository, and enjoy booking movie tickets with the enhanced Movie Tickets Booking System!
